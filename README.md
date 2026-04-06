@@ -28,28 +28,34 @@ templates
     └── style.css
     
 
+Requisitos
 
-Instalação:
+Para executar o sistema é necessário ter instalado:
 
-1) Abrir terminal na pasta do projeto
-2) Instalar dependências
-
+Python 3.10 ou superior
+Acesso ao terminal (CMD, PowerShell ou Terminal)
+Instalação e Execução
+Abrir o terminal na pasta do projeto.
+Instalar as dependências do sistema:
 pip install -r requirements.txt
-
-3) Executar o sistema
-
+Executar o sistema:
 python app.py
-
-4) Abrir no navegador
-
+Abrir o navegador e acessar:
 http://127.0.0.1:5000
+Funcionalidades do Sistema
 
-Funcionalidades:
+O sistema desenvolvido possui as seguintes funcionalidades:
 
-- Cadastro de usuários
-- Login seguro
-- Gestão de instituições
-- Registro de logs
-- Ambiente seguro para testes
+Cadastro de usuários
+Login seguro com criptografia de senha
+Dashboard do sistema
+Cadastro e gestão de instituições comunitárias
+Registro de atividades (logs do sistema)
+Ambiente seguro para testes de funcionalidades
+Banco de Dados
 
-O banco de dados é criado automaticamente ao iniciar o sistema.
+O banco de dados é criado automaticamente na primeira execução do sistema.
+
+Arquivo gerado automaticamente:
+
+sistema.db
