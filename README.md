@@ -16,7 +16,7 @@ plataforma_segura_PI
 │
 
 
-├── templates
+templates
 │   ├── base.html
 │   ├── login.html
 │   ├── register.html
