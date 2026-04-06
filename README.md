@@ -12,6 +12,7 @@ plataforma_segura_PI
 
 │
 ├── app.py
+
 ├── config.py
 ├── models.py
 ├── requirements.txt
